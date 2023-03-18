@@ -1,4 +1,3 @@
-<div style="padding-top:52.083%;position:relative;"><img src="[https://gifer.com/embed/BXe0](https://gifer.com/embed/BXe0)" width="100%" height="100%" style='position:absolute;top:0;left:0;' allowFullScreen></img></div>
 <h1 align="center">Hi 👋, I'm Jasser!</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasserba&label=Profile%20views&color=0e75b6&style=flat" alt="jasserba" /> </p>
