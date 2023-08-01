@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jasserrba" target="blank"><img src="https://img.shields.io/twitter/follow/jasserrba?logo=twitter&style=for-the-badge" alt="jasserrba" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, C**
+- 🌱 I’m currently learning **React.js, C, Sass, Java**
 
-- 💬 Ask me about **Python, HTML5, CSS**
+- 💬 Ask me about **Python, HTML5, CSS, JS, Bootstrap 5**
 
 - 📫 How to reach me **benabdallahjasserr@gmail.com**
 
