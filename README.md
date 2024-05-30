@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/jasserrba" target="blank"><img src="https://img.shields.io/twitter/follow/jasserrba?logo=twitter&style=for-the-badge" alt="jasserrba" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, C, Sass, Java**
+- 🌱 I’m currently learning *react-redux-nextjs**
 
-- 💬 Ask me about **Python, HTML5, CSS, JS, Bootstrap 5**
+- 💬 Ask me about **HTML5, CSS, JS, ReactJS, Java, Python...**
 
 - 📫 How to reach me **benabdallahjasserr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/jasserba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasser-benabdallah-641583246/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jasserbenabdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasser-benabdallah-641583246/" height="30" width="40" /></a>
 <a href="https://www.behance.net/jasserba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jasserba" height="30" width="40" /></a>
 </p>
 
