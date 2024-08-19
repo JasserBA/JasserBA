@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasserrba" target="blank"><img src="https://img.shields.io/twitter/follow/jasserrba?logo=twitter&style=for-the-badge" alt="jasserrba" /></a> </p>
 
-- 🌱 I’m currently learning *react-redux-nextjs**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **HTML5, CSS, JS, ReactJS, Java, Python...**
 
