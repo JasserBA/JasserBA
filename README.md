@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasserba&label=Profile%20views&color=0e75b6&style=flat" alt="jasserba" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jasserrba" target="blank"><img src="https://img.shields.io/twitter/follow/jasserrba?logo=twitter&style=for-the-badge" alt="jasserrba" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/jasserrba" target="blank"><img src="https://img.shields.io/twitter/follow/jasserrba?logo=twitter&style=for-the-badge" alt="jasserrba" /></a> </p> -->
 
 - 🌱 I’m currently learning **Angular**
 
