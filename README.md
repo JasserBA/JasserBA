@@ -35,6 +35,7 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
 
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/></a>
 
